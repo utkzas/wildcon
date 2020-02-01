@@ -1,0 +1,9 @@
+wildcon
+
+1.Download all files inside a folder
+2.launch index.html
+3.scroll to the end to find our portal tab
+4.login using 
+   Username: jaigaur2609@gmail.com
+   Password: thehackerunion
+5.Checkout video for other operations
